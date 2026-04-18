@@ -36,7 +36,7 @@ motto      : "Learning, building, and evolving every single day."
 <td width="50%">
 
 **💻 Tech**
-- 📱 Building **Traksyra** — a Flutter Task Manager app
+- 📱 **Traksyra** — a Flutter Task Manager app
 - 🌐 Deepening Web Dev fundamentals (HTML, CSS, JS)
 - 📊 Strengthening **DSA** skills daily
 - 🤖 Exploring Machine Learning concepts
@@ -62,8 +62,8 @@ motto      : "Learning, building, and evolving every single day."
 |---|---|---|
 | 📊 **Digital Twin — Corporate System** | Simulating a digital replica of a corporate environment | ✅ Done |
 | ⚡ **Electricity Billing System** | Automated billing management system | ✅ Done |
-| 📱 **Traksyra — Task Manager** | Flutter-based productivity app | 🔨 Building |
-| 🌐 **Personal Portfolio Website** | Showcasing my work & journey | 🚧 In Progress |
+| 📱 **Traksyra — Task Manager** | Flutter-based productivity app | ✅ Done |
+| 🌐 **Personal Portfolio Website** | Showcasing my work & journey | ✅ Done |
 
 ---
 
