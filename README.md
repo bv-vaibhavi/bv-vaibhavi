@@ -99,13 +99,9 @@ motto      : "Learning, building, and evolving every single day."
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=bv-vaibhavi&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
+[![Vaibhavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bv-vaibhavi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
