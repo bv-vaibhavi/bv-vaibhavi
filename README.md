@@ -1,21 +1,120 @@
-# 💫 About Me:
- 👋 Hi, I'm Vaibhavi Sharma Bhashyam<br><br>🚀 *Exploring Full Stack Development, Machine Learning & Creative Tech*<br><br><br><br> 🌟 About Me<br><br>🎓 2nd Year CSE Student at SRM IST<br>💡 Passionate about building impactful and user-friendly tech solutions<br>📚 Currently learning DSA, Web Development & exploring ML<br>🎨 Interested in UI/UX Design & Creative Development<br>🎬 Also into Video Editing & Digital Creativity<br><br>---<br><br> 🚀 What I'm Currently Doing<br><br>* 💻 Strengthening Data Structures & Algorithms<br>* 🌐 Learning Web Development (core fundamentals)<br>* 🤖 Exploring Machine Learning concepts<br>* 📄 Working on research-oriented projects<br><br>---<br><br>🛠️ Tech Stack<br><br> 💻 Programming<br><br>C | C++ | Java | Python *(building strong fundamentals)*<br><br> 🌐 Domains<br><br>* Full Stack Development *(Learning Phase)*<br>* Machine Learning *(Beginner Level)*<br>* UI/UX Design<br><br> 🎨 Tools<br><br>VS Code | Git & GitHub | Figma | QGIS *(Basics)* | CapCut<br><br>-<br><br> 📂 Projects<br><br>🚧 *Projects I’ve worked on / building:*<br><br>* 📊 Digital Twin of a Corporate System<br>* ⚡ Electricity Billing System<br>* 🌐 Personal Portfolio Website *(In Progress)*<br>* 📱 Traksyra – Task Manager *(Exploratory project)*<br><br><br><br> 🎯 Interests<br><br>✨ Full Stack Development<br>🤖 Machine Learning<br>🎨 UI/UX Design<br>🎬 Video Editing & Creative Tech<br>🧩 Problem Solving (DSA)<br><br><br><br> 📈 GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)<br><br><br><br>🔥 Contribution Streak<br><br>![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)<br><br><br><br>## 🐍 Contribution Snake<br><br>![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)<br><br><br><br> 📫 Connect With Me<br><br>* 💼 LinkedIn: www.linkedin.com/in/vaibhavisharmaji<br>* 📧 Email: vaibhavibhashyam@gmail.com<br><br><br><br>⭐ *“Learning, building, and evolving every single day.”*<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaibhavi%20Sharma%20Bhashyam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20Student%20%7C%20Builder%20%7C%20Creative%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhavii.sh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavisharmaji) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vaibhavi Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavibhashyam@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bv-vaibhavi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=bv-vaibhavi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bv-vaibhavi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bv-vaibhavi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Vaibhavi+%F0%9F%91%8B;2nd+Year+CSE+%40+SRM+IST+%F0%9F%8E%93;Full+Stack+Dev+in+the+making+%F0%9F%9A%80;ML+Explorer+%F0%9F%A4%96;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Creative+Tech+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=bv-vaibhavi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+## 🌟 About Me
+
+```yaml
+name: Vaibhavi Sharma Bhashyam
+location: Chennai, India 🇮🇳
+education: CSE @ SRM IST (2nd Year)
+
+currently:
+  - 📱 Building apps with Flutter
+  - 💻 Mastering DSA + Web Dev
+  - 🤖 Diving into Machine Learning
+  - 📄 Exploring research writing
+
+interests:
+  - UI/UX Design ✨
+  - Full Stack Development 🌐
+  - Machine Learning 🧠
+  - Creative Tech + Video Editing 🎬
+  - Problem Solving (DSA) 🧩
+
+fun_fact: "I build things by day, edit videos by night 🌙"
+```
+
+<br clear="right"/>
+
+---
+
+## 🚀 Projects I've Built & Am Building
+
+<div align="center">
+
+| 🚧 Project | 📝 Description | 🔧 Status |
+|:---:|:---:|:---:|
+| 📊 **Digital Twin of Corporate System** | Simulating real-world corporate processes digitally | ✅ Completed |
+| ⚡ **Electricity Billing System** | Automated billing solution | ✅ Completed |
+| 📱 **Traksyra - Task Manager** | Flutter-based smart task manager | 🔨 Building |
+| 🌐 **Personal Portfolio** | My corner of the internet | 🎨 In Progress |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=bv-vaibhavi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bv-vaibhavi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bv-vaibhavi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=bv-vaibhavi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bv-vaibhavi/bv-vaibhavi/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/bv-vaibhavi/bv-vaibhavi/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/bv-vaibhavi/bv-vaibhavi/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavisharmaji)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vaibhavii.sh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavibhashyam@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=bv-vaibhavi&color=blueviolet&style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+✨ *"Learning, building, and evolving every single day."* ✨
+
+</div>
