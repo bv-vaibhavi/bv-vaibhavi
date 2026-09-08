@@ -101,7 +101,7 @@ motto      : "Learning, building, and evolving every single day."
 
 ## 📈 Contribution Graph
 
-[![Vaibhavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bv-vaibhavi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
